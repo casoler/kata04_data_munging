@@ -1,6 +1,6 @@
 class WeatherData
 
-
+  # a new class
 
 
 
